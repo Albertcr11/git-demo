@@ -2,11 +2,6 @@
 
 This is the first line of the new repo.
 
-## Ipsum Below
+## Website contents
 
-jabds whqjnafs jeqasn fejn adfjvknbhewfhlnd vhfbejkamdvnbfheij
-adkbfilukbdjsk.vhikds
-hdsb vkjwdb 
-
-
-ljiga fscbe da
+1. index

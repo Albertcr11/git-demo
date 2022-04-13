@@ -4,4 +4,7 @@ This is the first line of the new repo.
 
 ## Website contents
 
-1. index
+Here are the files in the website
+
+
+1. index.html
